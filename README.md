@@ -1,5 +1,9 @@
 # AG News Classifier [Team 14]
 ### Official Github Repository of Team 14 for the Data Mining Project FSS 2022 
+#### Used data-set:
+- ag_news
+- In the program, the data is loaded from Hugging Face Hub
+- additionally, we provide the data for documentation in the folder "original_dataset_csv"
 #### The following python packages are needed for executing the notebooks:
 datasets, pandas, numpy, string, re, matplotlib, nltk, gensim, sklearn, imblearn, scipy, seaborn
 
